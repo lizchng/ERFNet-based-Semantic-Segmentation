@@ -13,7 +13,7 @@ on a small amount of labeled data.
 
 ```4. sh auto_train.sh```
  
-```5. sh auto_info.sh```
+```5. sh auto_infer.sh```
 
 ## Results
   
